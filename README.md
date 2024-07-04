@@ -23,20 +23,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um vídeo informativo sobre a tendência musical no Brasil pós pandemia.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+-[Vidnoz AI](https://aiapp-pt.vidnoz.com/video/index.html)
+-[ChatGPT](https://chatgpt.com/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Enviei ao ChatGPT este prompt "crie um roteiro de vídeo curto a tendencia musical no brasil pós pandemia com tom de voz informativo e amigavel" e depois editei o roteiro criado através do Vidnoz AI
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Veja aqui]
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
