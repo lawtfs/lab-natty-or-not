@@ -1,13 +1,13 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-### Template
 
 ## 📒 Descrição
 Um vídeo informativo sobre a tendência musical no Brasil pós pandemia.
 
 ## 🤖 Tecnologias Utilizadas
--[Vidnoz AI](https://aiapp-pt.vidnoz.com/video/index.html)
--[ChatGPT](https://chatgpt.com/)
+- [Vidnoz AI](https://aiapp-pt.vidnoz.com/video/index.html)
+
+- [ChatGPT](https://chatgpt.com/)
 
 ## 🧐 Processo de Criação
 Enviei ao ChatGPT este prompt "crie um roteiro de vídeo curto a tendencia musical no brasil pós pandemia com tom de voz informativo e amigavel" e depois editei o roteiro criado através do Vidnoz AI
